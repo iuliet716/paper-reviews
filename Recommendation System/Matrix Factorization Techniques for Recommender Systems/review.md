@@ -41,7 +41,7 @@ User 벡터와 Item 벡터 가 얼마나 유사한지, **즉 dot product 를 계
 
 User-Item $(U \times I)$ = User-Feature $(U \times k)$ $\times$ Feature-Item $(k \times I)$
 
-User_i 의 Item_i 에 대한 예측 rating 은 User_i 벡터와 Item_i 벡터의 내적
+User $i$ 의 Item $i$ 에 대한 예측 rating 은 User $i$ 벡터와 Item $i$ 벡터의 내적
 
 <br>
 <img width="131" alt="Untitled (2)" src="https://github.com/iuliet716/paper-reviews/assets/62701789/ff4ec961-ca07-4fe9-b008-3a36c023a2b9">
