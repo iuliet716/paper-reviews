@@ -5,10 +5,10 @@ Archive for Paper Review in CS, ML/DL
 
 # Recommendation System
 
-- [Matrix Factorization Techniques for Recommender Systems](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
+- [Matrix Factorization Techniques for Recommender Systems](https://github.com/iuliet716/paper-reviews/blob/main/Recommendation%20System/Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems/review.md)
 
 <br>
 
 # Parallel Computing
 
-- [PyTorch Distributed: Experiences on Accelerating Data Parallel Training](https://arxiv.org/abs/2006.15704)
+- [PyTorch Distributed: Experiences on Accelerating Data Parallel Training]
