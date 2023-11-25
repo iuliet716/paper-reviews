@@ -21,7 +21,7 @@ Collaborative Filtering for Implicit Feedback Datasets
 
 위 그림처럼 User, Item 을 벡터 공간에 나타낸다면
 
-User 벡터와 Item 벡터 가 얼마나 유사한지, 즉 dot product 를 계산하여 
+User 벡터와 Item 벡터 가 얼마나 유사한지, **즉 dot product 를 계산하여**
 
 해당 Item 에 대한 User 의 rating 을 정의할 수 있음
 
