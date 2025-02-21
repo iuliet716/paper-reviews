@@ -1,5 +1,5 @@
 # paper-reviews
-Archive for Paper Review in CS, ML/DL 
+Archive for paper reviews and implementations in Machine Learning
 <!--
 <br>
 
